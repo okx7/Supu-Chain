@@ -8,6 +8,10 @@ Supur是一款创新型**移动端区块链技术**平台，专为移动设备�
 
 - **Telegram社区**: [https://t.me/SupurChain](https://t.me/SupurChain)
 
+## 官方团队
+
+- **麻雀科技工作室**
+
 ## 核心创新
 
 Supur移动区块链在以下方面实现了技术突破：
